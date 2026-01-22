@@ -4,15 +4,15 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-bryni
+A lost soul, not knowing what he has undertaken
 
 # Why
 
-<explain why you made this module>
+Because ACMOS1 was too much fun
 
 # How
 
-<explain short how you made this module>
+By following the tutorial and crossing my fingers (not very well versed in linux as slave to the Microsoft corporation)
 
 
 # What
